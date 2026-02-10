@@ -1,10 +1,3 @@
-Here is a production-ready **README.md** and the necessary environment setup files for your independent repository. This includes the configuration for the Service-Pattern architecture, local environment instructions, and the environment variables needed to link to your Supabase and Modal infrastructure.
-
-### 1. The `README.md`
-
-Create a file named `README.md` in your project root:
-
-```markdown
 # ArthaSetu API 🏛️
 
 ArthaSetu API is the core intelligence layer for VidhiAI, providing a high-performance RAG (Retrieval-Augmented Generation) backend. It utilizes Django Ninja for the API framework, Supabase (pgvector) for document retrieval, and Modal for LLM reasoning.
